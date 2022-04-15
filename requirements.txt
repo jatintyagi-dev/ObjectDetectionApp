@@ -1,5 +1,5 @@
 torch
-tqdm
+
 detectron2
 cv2
 numpy
