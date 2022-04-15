@@ -4,6 +4,6 @@ tqdm
 # detectron2
 --find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/index.html
 detectron2
-cv2
+opencv-python
 numpy
-PIL
+Pillow
