@@ -1,6 +1,6 @@
 torch
+git+https://github.com/facebookresearch/detectron2.git
 
-detectron2
 cv2
 numpy
 PIL
